@@ -1,4 +1,5 @@
 /target/
-*.iml
 /.idea/
+*.iml
+*.swp
 atlassian-ide-plugin.xml
