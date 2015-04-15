@@ -1,4 +1,4 @@
-package org.jeffklein.turfwars.ui;
+package org.jeffklein.turfwars.codes.ui;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

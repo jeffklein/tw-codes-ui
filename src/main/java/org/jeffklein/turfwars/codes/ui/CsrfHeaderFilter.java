@@ -1,4 +1,4 @@
-package org.jeffklein.turfwars.ui;
+package org.jeffklein.turfwars.codes.ui;
 
 import org.springframework.security.web.csrf.CsrfToken;
 import org.springframework.web.filter.OncePerRequestFilter;
